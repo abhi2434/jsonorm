@@ -1,0 +1,8 @@
+D:\INS01\POC Performance RND\Adapters\local storage\User Interface\InSync.APPSeCONNECT.AppStarter\bin\Debug\jsonorm.dll
+D:\INS01\POC Performance RND\Adapters\local storage\User Interface\InSync.APPSeCONNECT.AppStarter\bin\Debug\jsonorm.pdb
+D:\INS01\POC Performance RND\Adapters\local storage\jsonorm\bin\Debug\jsonorm.dll
+D:\INS01\POC Performance RND\Adapters\local storage\jsonorm\bin\Debug\jsonorm.pdb
+D:\INS01\POC Performance RND\Adapters\local storage\jsonorm\bin\Debug\Newtonsoft.Json.dll
+D:\INS01\POC Performance RND\Adapters\local storage\jsonorm\obj\Debug\jsonorm.csprojResolveAssemblyReference.cache
+D:\INS01\POC Performance RND\Adapters\local storage\jsonorm\obj\Debug\jsonorm.dll
+D:\INS01\POC Performance RND\Adapters\local storage\jsonorm\obj\Debug\jsonorm.pdb
