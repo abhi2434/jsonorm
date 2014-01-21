@@ -1,0 +1,10 @@
+D:\INS01\POC Performance RND\Adapters\InSync.Cloud\InSync.Cloud\Agent\User Interface\InSync.APPSeCONNECT.AppStarter\bin\Debug\InSync.eConnect.Storage.dll
+D:\INS01\POC Performance RND\Adapters\InSync.Cloud\InSync.Cloud\Agent\User Interface\InSync.APPSeCONNECT.AppStarter\bin\Debug\InSync.eConnect.Storage.pdb
+D:\INS01\POC Performance RND\Adapters\InSync.Cloud\InSync.Cloud\Agent\InSync.eConnect.Storage\obj\Debug\InSync.eConnect.Storage.csprojResolveAssemblyReference.cache
+D:\INS01\POC Performance RND\Adapters\InSync.Cloud\InSync.Cloud\Agent\InSync.eConnect.Storage\obj\Debug\InSync.eConnect.Storage.dll
+D:\INS01\POC Performance RND\Adapters\InSync.Cloud\InSync.Cloud\Agent\InSync.eConnect.Storage\obj\Debug\InSync.eConnect.Storage.pdb
+D:\INS01\POC Performance RND\Adapters\InSync.Cloud\appseconnectAgent\Agent\User Interface\InSync.APPSeCONNECT.AppStarter\bin\Debug\InSync.eConnect.Storage.dll
+D:\INS01\POC Performance RND\Adapters\InSync.Cloud\appseconnectAgent\Agent\User Interface\InSync.APPSeCONNECT.AppStarter\bin\Debug\InSync.eConnect.Storage.pdb
+D:\INS01\POC Performance RND\Adapters\InSync.Cloud\appseconnectAgent\Agent\InSync.eConnect.Storage\obj\Debug\InSync.eConnect.Storage.csprojResolveAssemblyReference.cache
+D:\INS01\POC Performance RND\Adapters\InSync.Cloud\appseconnectAgent\Agent\InSync.eConnect.Storage\obj\Debug\InSync.eConnect.Storage.dll
+D:\INS01\POC Performance RND\Adapters\InSync.Cloud\appseconnectAgent\Agent\InSync.eConnect.Storage\obj\Debug\InSync.eConnect.Storage.pdb
